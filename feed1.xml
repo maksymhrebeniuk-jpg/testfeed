@@ -12,7 +12,7 @@
 <description>Lightweight electric gravel bike with 320W motor and 320Wh battery.</description>
 <link>https://example.com/product/1001</link>
 <g:image_link>https://example.com/images/1001.jpg</g:image_link>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:price>6399.00 EUR</g:price>
 <g:brand>Specialized</g:brand>
 <g:google_product_category>1026</g:google_product_category>
@@ -38,25 +38,6 @@
 <g:color>Blue</g:color>
 <g:size>56</g:size>
 <g:item_group_id>2001</g:item_group_id>
-<g:condition>new</g:condition>
-</item>
-
-<!-- PRODUCT 3 -->
-<item>
-<g:id>1003</g:id>
-<title>Specialized Turbo Levo Alloy Green</title>
-<description>Full suspension electric MTB with 700Wh battery.</description>
-<link>https://example.com/product/1003</link>
-<g:image_link>https://example.com/images/1003.jpg</g:image_link>
-<g:availability>in_stock</g:availability>
-<g:price>5399.00 EUR</g:price>
-<g:sale_price>3989.00 EUR</g:sale_price>
-<g:brand>Specialized</g:brand>
-<g:google_product_category>1026</g:google_product_category>
-<g:product_type>E-bikes > MTB</g:product_type>
-<g:color>Green</g:color>
-<g:size>S6</g:size>
-<g:item_group_id>3001</g:item_group_id>
 <g:condition>new</g:condition>
 </item>
 
@@ -139,7 +120,7 @@
 <description>Versatile electric mountain bike.</description>
 <link>https://example.com/product/1008</link>
 <g:image_link>https://example.com/images/1008.jpg</g:image_link>
-<g:availability>in_stock</g:availability>
+<g:availability>false</g:availability>
 <g:price>5399.00 EUR</g:price>
 <g:brand>Specialized</g:brand>
 <g:google_product_category>1026</g:google_product_category>
@@ -157,7 +138,7 @@
 <description>Reliable e-MTB with premium components.</description>
 <link>https://example.com/product/1009</link>
 <g:image_link>https://example.com/images/1009.jpg</g:image_link>
-<g:availability>in_stock</g:availability>
+<g:availability>0</g:availability>
 <g:price>5399.00 EUR</g:price>
 <g:brand>Specialized</g:brand>
 <g:google_product_category>1026</g:google_product_category>
@@ -175,7 +156,6 @@
 <description>Electric MTB designed for all terrains.</description>
 <link>https://example.com/product/1010</link>
 <g:image_link>https://example.com/images/1010.jpg</g:image_link>
-<g:availability>in_stock</g:availability>
 <g:price>5399.00 EUR</g:price>
 <g:brand>Specialized</g:brand>
 <g:google_product_category>1026</g:google_product_category>
