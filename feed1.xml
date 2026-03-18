@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Google Shopping</title>
+<link>https://example.com/feed.xml</link>
+<description>Product Feed</description>
+
+<!-- PRODUCT 1 -->
+<item>
+<g:id>1001</g:id>
+<title>Specialized Creo 2 Comp Blue</title>
+<description>Lightweight electric gravel bike with 320W motor and 320Wh battery.</description>
+<link>https://example.com/product/1001</link>
+<g:image_link>https://example.com/images/1001.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>6399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > Gravel</g:product_type>
+<g:color>Blue</g:color>
+<g:size>52</g:size>
+<g:item_group_id>2001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 2 -->
+<item>
+<g:id>1002</g:id>
+<title>Specialized Creo 2 Comp Blue 56</title>
+<description>Electric gravel bike with extended range and lightweight frame.</description>
+<link>https://example.com/product/1002</link>
+<g:image_link>https://example.com/images/1002.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>6399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > Gravel</g:product_type>
+<g:color>Blue</g:color>
+<g:size>56</g:size>
+<g:item_group_id>2001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 3 -->
+<item>
+<g:id>1003</g:id>
+<title>Specialized Turbo Levo Alloy Green</title>
+<description>Full suspension electric MTB with 700Wh battery.</description>
+<link>https://example.com/product/1003</link>
+<g:image_link>https://example.com/images/1003.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:sale_price>3989.00 EUR</g:sale_price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Green</g:color>
+<g:size>S6</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 4 -->
+<item>
+<g:id>1004</g:id>
+<title>Specialized Turbo Levo Alloy Lime S1</title>
+<description>Powerful electric MTB for off-road adventures.</description>
+<link>https://example.com/product/1004</link>
+<g:image_link>https://example.com/images/1004.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Lime</g:color>
+<g:size>S1</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 5 -->
+<item>
+<g:id>1005</g:id>
+<title>Specialized Turbo Levo Alloy Lime S2</title>
+<description>High-performance e-MTB with 90Nm torque motor.</description>
+<link>https://example.com/product/1005</link>
+<g:image_link>https://example.com/images/1005.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Lime</g:color>
+<g:size>S2</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 6 -->
+<item>
+<g:id>1006</g:id>
+<title>Specialized Turbo Levo Alloy Lime S3</title>
+<description>Advanced electric MTB for demanding terrain.</description>
+<link>https://example.com/product/1006</link>
+<g:image_link>https://example.com/images/1006.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Lime</g:color>
+<g:size>S3</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 7 -->
+<item>
+<g:id>1007</g:id>
+<title>Specialized Turbo Levo Alloy Lime S4</title>
+<description>Durable e-MTB with excellent suspension.</description>
+<link>https://example.com/product/1007</link>
+<g:image_link>https://example.com/images/1007.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Lime</g:color>
+<g:size>S4</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 8 -->
+<item>
+<g:id>1008</g:id>
+<title>Specialized Turbo Levo Alloy Lime S5</title>
+<description>Versatile electric mountain bike.</description>
+<link>https://example.com/product/1008</link>
+<g:image_link>https://example.com/images/1008.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Lime</g:color>
+<g:size>S5</g:size>
+<g:item_group_id>3001</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 9 -->
+<item>
+<g:id>1009</g:id>
+<title>Specialized Turbo Levo Alloy Black S1</title>
+<description>Reliable e-MTB with premium components.</description>
+<link>https://example.com/product/1009</link>
+<g:image_link>https://example.com/images/1009.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Black</g:color>
+<g:size>S1</g:size>
+<g:item_group_id>3002</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+<!-- PRODUCT 10 -->
+<item>
+<g:id>1010</g:id>
+<title>Specialized Turbo Levo Alloy Black S2</title>
+<description>Electric MTB designed for all terrains.</description>
+<link>https://example.com/product/1010</link>
+<g:image_link>https://example.com/images/1010.jpg</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Black</g:color>
+<g:size>S2</g:size>
+<g:item_group_id>3002</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
+</channel>
+</rss>
