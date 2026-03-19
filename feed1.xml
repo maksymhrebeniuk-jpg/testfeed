@@ -8,7 +8,7 @@
 <!-- PRODUCT 1 -->
 <item>
 <g:id>1001</g:id>
-<title>Specialized Creo 2 Comp Blue</title>
+<title>Bike for children</title>
 <description>Lightweight electric gravel bike with 320W motor and 320Wh battery.</description>
 <link>https://example.com/product/1001</link>
 <g:image_link>https://example.com/images/1001.jpg</g:image_link>
@@ -26,7 +26,7 @@
 <!-- PRODUCT 4 -->
 <item>
 <g:id>1004</g:id>
-<title>Specialized Turbo Levo Alloy Lime S1</title>
+<title>Bike for adults</title>
 <description>Powerful electric MTB for off-road adventures.</description>
 <link>https://example.com/product/1004</link>
 <g:image_link>https://example.com/images/1004.jpg</g:image_link>
@@ -44,7 +44,7 @@
 <!-- PRODUCT 5 -->
 <item>
 <g:id>1005</g:id>
-<title>Specialized Turbo Levo Alloy Lime S2</title>
+<title>Specialized bike for Adults</title>
 <description>High-performance e-MTB with 90Nm torque motor.</description>
 <link>https://example.com/product/1005</link>
 <g:image_link>https://example.com/images/1005.jpg</g:image_link>
