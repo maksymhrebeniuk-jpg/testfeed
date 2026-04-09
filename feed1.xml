@@ -31,11 +31,11 @@
 <link>https://example.com/product/1004</link>
 <g:image_link>https://example.com/images/1004.jpg</g:image_link>
 <g:availability>in_stock</g:availability>
-<g:price>539.00 EUR</g:price>
+<g:price>5.00 EUR</g:price>
 <g:brand>Specialized</g:brand>
 <g:google_product_category>1026</g:google_product_category>
 <g:product_type>E-bikes > MTB</g:product_type>
-<g:color>Lime</g:color>
+<g:color>Black</g:color>
 <g:size>S1</g:size>
 <g:item_group_id>3001</g:item_group_id>
 <g:condition>new</g:condition>
