@@ -149,5 +149,23 @@
 <g:condition>new</g:condition>
 </item>
 
+<!-- PRODUCT 12 -->
+<item>
+<g:id>1011</g:id>
+<title>Specialized Turbo Levo Alloy Black S4</title>
+<description>Electric MTB designed for all terrains.</description>
+<link>https://example.com/product/1010</link>
+<g:image_link>https://example.com/images/1010.jpg</g:image_link>
+<g:availability>true</g:availability>
+<g:price>5399.00 EUR</g:price>
+<g:brand>Specialized</g:brand>
+<g:google_product_category>1026</g:google_product_category>
+<g:product_type>E-bikes > MTB</g:product_type>
+<g:color>Black</g:color>
+<g:size>S3</g:size>
+<g:item_group_id>3002</g:item_group_id>
+<g:condition>new</g:condition>
+</item>
+
 </channel>
 </rss>
